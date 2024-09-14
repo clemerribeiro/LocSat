@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/clemer.ribeiro/Desktop/Loc%20BSB/ProjetoFinal/web/exibir_cliente.jsp</file>
+            <file>file:/C:/Users/clemer.ribeiro/Desktop/Loc%20BSB/ProjetoFinal/src/java/model/PerfilDAO.java</file>
+            <file>file:/C:/Users/clemer.ribeiro/Desktop/Loc%20BSB/ProjetoFinal/src/java/model/Endereco.java</file>
+            <file>file:/C:/Users/clemer.ribeiro/Desktop/Loc%20BSB/ProjetoFinal/web/cadastrar_ordem_servico.jsp</file>
+            <file>file:/C:/Users/clemer.ribeiro/Desktop/Loc%20BSB/ProjetoFinal/src/java/model/Funcionario.java</file>
+            <file>file:/C:/Users/clemer.ribeiro/Desktop/Loc%20BSB/ProjetoFinal/web/header.jsp</file>
+            <file>file:/C:/Users/clemer.ribeiro/Desktop/Loc%20BSB/ProjetoFinal/web/vincular_menu_perfil.jsp</file>
+            <file>file:/C:/Users/clemer.ribeiro/Desktop/Loc%20BSB/ProjetoFinal/src/java/controller/GerenciarOrdemServico.java</file>
+            <file>file:/C:/Users/clemer.ribeiro/Desktop/Loc%20BSB/ProjetoFinal/src/java/model/EnderecoDAO.java</file>
+            <file>file:/C:/Users/clemer.ribeiro/Desktop/Loc%20BSB/ProjetoFinal/src/java/controller/GerenciarLogin.java</file>
+            <file>file:/C:/Users/clemer.ribeiro/Desktop/Loc%20BSB/ProjetoFinal/web/exibir_ordem_servico.jsp</file>
+            <file>file:/C:/Users/clemer.ribeiro/Desktop/Loc%20BSB/ProjetoFinal/src/java/controller/GerenciarPerfil.java</file>
+            <file>file:/C:/Users/clemer.ribeiro/Desktop/Loc%20BSB/ProjetoFinal/src/java/model/DataBaseDAO.java</file>
+            <file>file:/C:/Users/clemer.ribeiro/Desktop/Loc%20BSB/ProjetoFinal/src/java/model/OrdemServico.java</file>
+            <file>file:/C:/Users/clemer.ribeiro/Desktop/Loc%20BSB/ProjetoFinal/web/listar_cliente.jsp</file>
+            <file>file:/C:/Users/clemer.ribeiro/Desktop/Loc%20BSB/ProjetoFinal/src/java/model/ClienteDAO.java</file>
+            <file>file:/C:/Users/clemer.ribeiro/Desktop/Loc%20BSB/ProjetoFinal/web/finalizar_ordem_servico.jsp</file>
+            <file>file:/C:/Users/clemer.ribeiro/Desktop/Loc%20BSB/ProjetoFinal/src/java/model/FuncionarioDAO.java</file>
+            <file>file:/C:/Users/clemer.ribeiro/Desktop/Loc%20BSB/ProjetoFinal/web/listar_ordem_servico_pendente.jsp</file>
+            <file>file:/C:/Users/clemer.ribeiro/Desktop/Loc%20BSB/ProjetoFinal/web/cadastrar_usuario.jsp</file>
+            <file>file:/C:/Users/clemer.ribeiro/Desktop/Loc%20BSB/ProjetoFinal/web/exibir_endereco.jsp</file>
+            <file>file:/C:/Users/clemer.ribeiro/Desktop/Loc%20BSB/ProjetoFinal/src/java/controller/GerenciarCliente.java</file>
+            <file>file:/C:/Users/clemer.ribeiro/Desktop/Loc%20BSB/ProjetoFinal/web/listar_cacamba.jsp</file>
+            <file>file:/C:/Users/clemer.ribeiro/Desktop/Loc%20BSB/ProjetoFinal/src/java/controller/GerenciarMenuPerfil.java</file>
+            <file>file:/C:/Users/clemer.ribeiro/Desktop/Loc%20BSB/ProjetoFinal/web/listar_menu.jsp</file>
+            <file>file:/C:/Users/clemer.ribeiro/Desktop/Loc%20BSB/ProjetoFinal/web/listar_funcionario.jsp</file>
+            <file>file:/C:/Users/clemer.ribeiro/Desktop/Loc%20BSB/ProjetoFinal/web/escolher_cliente.jsp</file>
+            <file>file:/C:/Users/clemer.ribeiro/Desktop/Loc%20BSB/ProjetoFinal/web/footer.jsp</file>
+            <file>file:/C:/Users/clemer.ribeiro/Desktop/Loc%20BSB/ProjetoFinal/web/editar_cliente.jsp</file>
+            <file>file:/C:/Users/clemer.ribeiro/Desktop/Loc%20BSB/ProjetoFinal/web/cadastrar_funcionario.jsp</file>
+            <file>file:/C:/Users/clemer.ribeiro/Desktop/Loc%20BSB/ProjetoFinal/src/java/model/Usuario.java</file>
+            <file>file:/C:/Users/clemer.ribeiro/Desktop/Loc%20BSB/ProjetoFinal/web/editar_menu.jsp</file>
+            <file>file:/C:/Users/clemer.ribeiro/Desktop/Loc%20BSB/ProjetoFinal/src/java/controller/GerenciarEndereco.java</file>
+            <file>file:/C:/Users/clemer.ribeiro/Desktop/Loc%20BSB/ProjetoFinal/web/cadastrar_cliente.jsp</file>
+            <file>file:/C:/Users/clemer.ribeiro/Desktop/Loc%20BSB/ProjetoFinal/src/java/controller/GerenciarCacamba.java</file>
+            <file>file:/C:/Users/clemer.ribeiro/Desktop/Loc%20BSB/ProjetoFinal/src/java/model/Perfil.java</file>
+            <file>file:/C:/Users/clemer.ribeiro/Desktop/Loc%20BSB/ProjetoFinal/web/estilo/acesso.css</file>
+            <file>file:/C:/Users/clemer.ribeiro/Desktop/Loc%20BSB/ProjetoFinal/src/java/controller/GerenciarMenu.java</file>
+            <file>file:/C:/Users/clemer.ribeiro/Desktop/Loc%20BSB/ProjetoFinal/web/listar_endereco.jsp</file>
+            <file>file:/C:/Users/clemer.ribeiro/Desktop/Loc%20BSB/ProjetoFinal/src/java/controller/GerenciarUsuario.java</file>
+            <file>file:/C:/Users/clemer.ribeiro/Desktop/Loc%20BSB/ProjetoFinal/web/listar_ordem_servico.jsp</file>
+            <file>file:/C:/Users/clemer.ribeiro/Desktop/Loc%20BSB/ProjetoFinal/web/listar_usuario.jsp</file>
+            <file>file:/C:/Users/clemer.ribeiro/Desktop/Loc%20BSB/ProjetoFinal/web/listar_ordem_servico_finalizada.jsp</file>
+            <file>file:/C:/Users/clemer.ribeiro/Desktop/Loc%20BSB/ProjetoFinal/src/java/model/UsuarioDAO.java</file>
+            <file>file:/C:/Users/clemer.ribeiro/Desktop/Loc%20BSB/ProjetoFinal/web/cadastrar_cacamba.jsp</file>
+            <file>file:/C:/Users/clemer.ribeiro/Desktop/Loc%20BSB/ProjetoFinal/web/estilo/style.css</file>
+            <file>file:/C:/Users/clemer.ribeiro/Desktop/Loc%20BSB/ProjetoFinal/src/java/model/MenuDAO.java</file>
+            <file>file:/C:/Users/clemer.ribeiro/Desktop/Loc%20BSB/ProjetoFinal/web/editar_usuario.jsp</file>
+            <file>file:/C:/Users/clemer.ribeiro/Desktop/Loc%20BSB/ProjetoFinal/web/listar_perfil.jsp</file>
+            <file>file:/C:/Users/clemer.ribeiro/Desktop/Loc%20BSB/ProjetoFinal/src/java/model/CacambaDAO.java</file>
+            <file>file:/C:/Users/clemer.ribeiro/Desktop/Loc%20BSB/ProjetoFinal/web/editar_endereco.jsp</file>
+            <file>file:/C:/Users/clemer.ribeiro/Desktop/Loc%20BSB/ProjetoFinal/web/administracao.jsp</file>
+            <file>file:/C:/Users/clemer.ribeiro/Desktop/Loc%20BSB/ProjetoFinal/web/cadastrar_endereco.jsp</file>
+            <file>file:/C:/Users/clemer.ribeiro/Desktop/Loc%20BSB/ProjetoFinal/src/java/model/OrdemServicoDAO.java</file>
+            <file>file:/C:/Users/clemer.ribeiro/Desktop/Loc%20BSB/ProjetoFinal/src/java/model/Cacamba.java</file>
+            <file>file:/C:/Users/clemer.ribeiro/Desktop/Loc%20BSB/ProjetoFinal/src/java/model/Cliente.java</file>
+            <file>file:/C:/Users/clemer.ribeiro/Desktop/Loc%20BSB/ProjetoFinal/web/editar_perfil.jsp</file>
+        </group>
+    </open-files>
+</project-private>
